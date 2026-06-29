@@ -536,9 +536,9 @@ SOFTWARE.
 
 For questions, suggestions, or support:
 
-- **Email**: shuklagovind612@gmail.com
-- **GitHub**: https://github.com/GovindShukla-413
-- **LinkedIn**: www.linkedin.com/in/govind-shukla-2a8015311
+- **Email**:- shuklagovind612@gmail.com
+- **GitHub**:- https://github.com/GovindShukla-413
+- **LinkedIn**:- www.linkedin.com/in/govind-shukla-2a8015311
 
 ---
 
