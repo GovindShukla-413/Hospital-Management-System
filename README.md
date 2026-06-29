@@ -536,12 +536,12 @@ SOFTWARE.
 
 For questions, suggestions, or support:
 
-- **Email**: zeecare@hospital.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Email**: shuklagovind612@gmail.com
+- **GitHub**: https://github.com/GovindShukla-413
+- **LinkedIn**: www.linkedin.com/in/govind-shukla-2a8015311
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made by Saad
+Made by Govind
